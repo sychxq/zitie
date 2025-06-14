@@ -1,0 +1,38 @@
+[
+  {
+    "value": "ZKZT",
+    "label": "田英章 楷书"
+  },
+  {
+    "value": "XKZT",
+    "label": "田英章 行书"
+  },
+  {
+    "value": "HZSJ",
+    "label": "宋徽宗瘦金体"
+  },
+  {
+    "value": "YYZT",
+    "label": "幼圆"
+  },
+  {
+    "value": "LSZT",
+    "label": "隶书"
+  },
+  {
+    "value": "XZZT",
+    "label": "小篆"
+  },
+  {
+    "value": "OTZT",
+    "label": "欧楷"
+  },
+  {
+    "value": "LTZT",
+    "label": "柳楷"
+  },
+  {
+    "value": "YTZT",
+    "label": "颜楷"
+  }
+]

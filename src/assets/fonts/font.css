@@ -1,0 +1,129 @@
+/* 定义公共的字体属性变量 */
+:root {
+    --font-weight-normal: normal;
+    --font-style-normal: normal;
+    --font-display-swap: swap;
+}
+
+
+/* 田英章 楷书 */
+@font-face {
+    font-family: 'ZKZT';
+    src: url('ZKZT.eot');
+    src: url('ZKZT.eot?#iefix') format('embedded-opentype'),
+        url('ZKZT.woff2') format('woff2'),
+        url('ZKZT.woff') format('woff'),
+        url('ZKZT.ttf') format('truetype'),
+        url('ZKZT.svg#') format('svg');
+    font-weight: var(--font-weight-normal);
+    font-style: var(--font-style-normal);
+    font-display: var(--font-display-swap);
+}
+
+/* 田英章 行书 */
+@font-face {
+    font-family: 'XKZT';
+    src: url('XKZT.eot');
+    src: url('XKZT.eot?#iefix') format('embedded-opentype'),
+        url('XKZT.woff2') format('woff2'),
+        url('XKZT.woff') format('woff'),
+        url('XKZT.ttf') format('truetype'),
+        url('XKZT.svg#') format('svg');
+    font-weight: var(--font-weight-normal);
+    font-style: var(--font-style-normal);
+    font-display: var(--font-display-swap);
+}
+
+/* 宋徽宗瘦金体 */
+@font-face {
+    font-family: 'HZSJ';
+    src: url('HZSJ.eot');
+    src: url('HZSJ.eot?#iefix') format('embedded-opentype'),
+        url('HZSJ.woff2') format('woff2'),
+        url('HZSJ.woff') format('woff'),
+        url('HZSJ.svg#HZSJ') format('svg');
+    font-weight: var(--font-weight-normal);
+    font-style: var(--font-style-normal);
+    font-display: var(--font-display-swap);
+}
+
+/* 幼圆 */
+@font-face {
+    font-family: 'YYZT';
+    src: url('YYZT.eot');
+    src: url('YYZT.eot?#iefix') format('embedded-opentype'),
+        url('YYZT.woff2') format('woff2'),
+        url('YYZT.woff') format('woff'),
+        url('YYZT.ttf') format('truetype'),
+        url('YYZT.svg#') format('svg');
+    font-weight: var(--font-weight-normal);
+    font-style: var(--font-style-normal);
+    font-display: var(--font-display-swap);
+}
+
+/* 隶书 */
+@font-face {
+    font-family: 'LSZT';
+    src: url('LSZT.eot');
+    src: url('LSZT.eot?#iefix') format('embedded-opentype'),
+        url('LSZT.woff2') format('woff2'),
+        url('LSZT.woff') format('woff'),
+        url('LSZT.ttf') format('truetype'),
+        url('LSZT.svg#') format('svg');
+    font-weight: var(--font-weight-normal);
+    font-style: var(--font-style-normal);
+    font-display: var(--font-display-swap);
+}
+
+/* 小篆 */
+@font-face {
+    font-family: 'XZZT';
+    src: url('XZZT.eot');
+    src: url('XZZT.eot?#iefix') format('embedded-opentype'),
+        url('XZZT.woff2') format('woff2'),
+        url('XZZT.woff') format('woff'),
+        url('XZZT.ttf') format('truetype'),
+        url('XZZT.svg#') format('svg');
+    font-weight: var(--font-weight-normal);
+    font-style: var(--font-style-normal);
+    font-display: var(--font-display-swap);
+}
+
+/* 欧楷 */
+@font-face {
+    font-family: 'OTZT';
+    src: url('OTZT.eot');
+    src: url('OTZT.eot?#iefix') format('embedded-opentype'),
+        url('OTZT.woff2') format('woff2'),
+        url('OTZT.woff') format('woff'),
+        url('OTZT.svg#OTZT') format('svg');
+    font-weight: var(--font-weight-normal);
+    font-style: var(--font-style-normal);
+    font-display: var(--font-display-swap);
+}
+
+/* 柳楷 */
+@font-face {
+    font-family: 'LTZT';
+    src: url('LTZT.eot');
+    src: url('LTZT.eot?#iefix') format('embedded-opentype'),
+        url('LTZT.woff2') format('woff2'),
+        url('LTZT.woff') format('woff'),
+        url('LTZT.svg#LTZT') format('svg');
+    font-weight: var(--font-weight-normal);
+    font-style: var(--font-style-normal);
+    font-display: var(--font-display-swap);
+}
+
+/* 颜楷 */
+@font-face {
+    font-family: 'YTZT';
+    src: url('YTZT.eot');
+    src: url('YTZT.eot?#iefix') format('embedded-opentype'),
+        url('YTZT.woff2') format('woff2'),
+        url('YTZT.woff') format('woff'),
+        url('YTZT.svg#YTZT') format('svg');
+    font-weight: var(--font-weight-normal);
+    font-style: var(--font-style-normal);
+    font-display: var(--font-display-swap);
+}
